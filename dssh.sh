@@ -11,16 +11,6 @@
 # Ex: ./dssh.sh hosts.list "hostname && echo "" && cat /etc/lsb-release"
 #
 #
-# Note = Run Locally as Root User
-#
-# Directional Key-Exchange Setups:
-#
-# RC  = Local Root Account -> James.Hipp
-# BH  = Local Root Account -> James.Hipp
-# BKC = Local Root Account -> James.Hipp
-# HF  = Local Root Account -> James.Hipp
-# WCM = Local Root Account -> James.Hipp
-#
 ## Change Log ##
 #
 # 4/16/19 = Added "-t" flag to ssh for sudo commands
