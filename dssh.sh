@@ -1,8 +1,8 @@
 #!/bin/bash
 #########################################################################
 #
-# Distribute SSH (DSSH) Command
-# Easy way to run a command on multiple servers
+# Distributed SSH (DSSH) Command
+# Easy way to run a command(s) on multiple servers
 #
 # run dssh [hosts_file_name] ["command"]
 # run dssh [hosts_file_name] ['command']
