@@ -7,8 +7,8 @@
 # run dssh [hosts_file_name] ["command"]
 # run dssh [hosts_file_name] ['command']
 #
-# Ex: dssh hosts.list "cat /etc/redhat-release"
-# Ex: ./dssh.sh hosts.list "hostname && echo "" && cat /etc/lsb-release"
+# Ex: ./dssh.sh hosts.list "cat /etc/redhat-release"
+# Ex: ./dssh.sh hosts.list 'hostname && echo "" && cat /etc/lsb-release'
 #
 #
 ## Change Log ##
