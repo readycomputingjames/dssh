@@ -1,13 +1,14 @@
 #########################################################################
 #
 # Distributed SSH (DSSH) Command
-# Easy way to run a command on multiple servers
+# Easy way to run a command(s) on multiple servers
 #
 # run dssh [hosts_file_name] ["command"]
 # run dssh [hosts_file_name] ['command']
 #
 # Ex: ./dssh.sh hosts.list "cat /etc/redhat-release"
 # Ex: ./dssh.sh hosts.list 'hostname && ip a'
+# Ex: ./dssh.sh hosts.list 'hostname && echo "" && cat /etc/lsb-release'
 #
 #
 # Note = Run as User You Want Commands to Execute or Specify User in Hosts File
