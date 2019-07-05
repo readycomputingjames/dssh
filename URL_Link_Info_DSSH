@@ -1,0 +1,38 @@
+DSSH Repo
+
+
+Link URL:
+
+https://github.com/readycomputingjames/dssh.git
+
+
+Clone:
+
+# git clone https://github.com/readycomputingjames/dssh.git
+
+
+Test:
+
+[jthipp@rcjamesworkpc GitHub]$ pwd
+/home/jthipp/Documents/Documentation/GitHub
+
+[jthipp@rcjamesworkpc GitHub]$ git clone https://github.com/readycomputingjames/dssh.git
+Cloning into 'dssh'...
+Username for 'https://github.com': readycomputingjames
+Password for 'https://readycomputingjames@github.com': 
+remote: Enumerating objects: 7, done.
+remote: Counting objects: 100% (7/7), done.
+remote: Compressing objects: 100% (7/7), done.
+remote: Total 7 (delta 0), reused 0 (delta 0), pack-reused 0
+Unpacking objects: 100% (7/7), done.
+
+[jthipp@rcjamesworkpc GitHub]$ cd dssh/
+
+[jthipp@rcjamesworkpc dssh]$ ls -l
+total 12
+-rw-rw-r-- 1 root root 1084 Jun 21 11:27 dssh.sh
+-rw-rw-r-- 1 root root   57 Jun 21 11:27 hosts.list
+-rw-rw-r-- 1 root root 2042 Jun 21 11:27 README.dssh.txt
+-rw-r--r-- 1 root root  958 Jul  5 11:35 URL_Link_Info_DSSH
+
+
