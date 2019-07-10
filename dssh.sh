@@ -20,7 +20,8 @@
 host_list_file=$1
 input_command=$2
 
-dssh () {
+dssh () 
+{
 
    for HOST in `cat $host_list_file`
    do
