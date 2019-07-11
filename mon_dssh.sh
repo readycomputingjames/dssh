@@ -13,11 +13,9 @@
 # run mon_dssh [hosts_file_name]
 # Ex: ./mon_dssh.sh hosts.list
 #
-# Note = Run Locally as Root User
+# Directional Key-Exchange Setup is Recommended
 #
-# Directional Key-Exchange Setup User = James.Hipp
-#
-# Client System Groups to Monitor = BH, BKC, HF, WCM
+# Currently only has Functionality for CentOS/RHEL but checks for Debian
 #
 #
 ### CHANGE LOG ###
