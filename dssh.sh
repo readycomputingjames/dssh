@@ -13,7 +13,7 @@
 #
 ## Change Log ##
 #
-# 4/16/19 = Added "-t" flag to ssh for sudo commands
+# 20190416 = Added "-t" flag to ssh for sudo commands
 #
 #########################################################################
 
